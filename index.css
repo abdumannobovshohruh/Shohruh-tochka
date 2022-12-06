@@ -1,0 +1,562 @@
+*{
+padding: 0;
+margin: 0;
+}
+body{
+font-family: 'PT Mono', monospace;
+font-family: 'Lora', serif;
+font-family: 'PT Mono', monospace;
+}
+.div_dot{
+margin-top: 20px;
+margin-left: 600px;
+}
+.bir{
+color: rgb(167, 197, 197);
+}
+.tochkalar_2{
+    margin-left: 600px;
+    padding-top: 20px;
+}
+.tochkalar_3{
+    margin-left: 600px;
+    padding-top: 20px;
+}
+.card_help{
+    color: #000000;
+}
+.logo{
+margin-left: 200px;
+width: 37px;
+}
+.logo_2{
+    width: 240px;
+}
+.viber{
+    width: 100px;
+}
+.restoran{
+width: 100%;
+}
+
+.gorod{
+font-family: 'Lora';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+/* line-height: 30px; */
+/* identical to box height, or 62% */
+letter-spacing: 0.01em;
+color: #000000;
+padding-top: 50px;
+padding-left: 100px;
+}
+.kirpich{
+font-family: 'PT Mono';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 130%;
+/* or 31px */
+text-align: center;
+color: #000000;
+margin-top: 30px;
+}
+.ikki{
+color: rgb(198, 92, 17);
+margin-top: 5px;
+margin-right: 10px;
+}
+.div_3{
+margin-top: 50px;
+display: flex;
+/* align-items: flex-start; */
+
+}
+.rojdeniya{
+/* font-family: 'PT Mono'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 18px;
+/* line-height: 30px; */
+/* identical to box height, or 167% */
+text-align: center;
+/* letter-spacing: 0.01em; */
+color: #000000;
+}
+.div_4{
+padding-top: 100px;
+}
+.div_4_2{
+    padding-top: 100px;
+}
+.div_4_3{
+    padding-top: 100px;
+}
+.div_4_4{
+    padding-top: 100px;
+}
+.people{
+margin-top: 10px;
+font-weight: 400;
+font-size: 18px;
+color: #000000;
+}
+.people_2{
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+.people_3{
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+.people_4{
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.team_2{
+width: 100%;
+}
+.menyu{
+    padding-top: 40px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #000000;
+   margin-left: 500px;
+    }
+.klyuch{
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 30px;
+/* identical to box height, or 62% */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+margin-top: 20px;
+margin-bottom: 64px;
+}
+/* ---------------------------------------section 3 -------------------------- */
+.card_1{
+    background: darkorange;
+    /* height: 250px; */
+}
+.organizatsiya{
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 40px;
+
+    font-family: 'PT Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+    letter-spacing: 0.01em;
+    color: #000000;
+    }
+/* .plus{
+    padding-top: 30px;
+  margin-left: 100px;
+  text-align: center;
+} */
+.div_img{
+    padding-top: 30px;
+    text-align: center;
+}
+.organizatsiya_2{
+    text-align: center;
+    padding-bottom: 30px;
+
+    font-family: 'PT Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+ /* -----------------------------------------------------section 4------------------------------------ */
+ .otziv{
+    font-family: 'Lora';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 30px;
+/* identical to box height, or 62% */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+margin-left: 200px;
+padding-top: 90px;
+ }
+.card_photo{
+    margin-top: 50px;
+    background: cornsilk;
+    width: 590px; 
+    height: 229px;
+    margin-right: 500px;
+    
+}
+.card_photo_2{
+    margin-top: 50px;
+    background: cornsilk;
+    width: 590px; 
+    height: 229px;
+    margin-right: 500px;
+}
+.hair{
+    margin-left: 20px;
+    /* margin-right: 20px; */
+}
+.card_photo_hair{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.danil{
+    padding-left: 20px;
+    padding-right: 60px;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 20px;
+    /* identical to box height, or 83% */
+    letter-spacing: 0.01em;
+    color: #000000;
+    }
+.lorem{
+    margin-top: 20px;
+    font-family: 'PT Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-left: 20px;   
+    /* margin-right: 30px; */
+    /* text-align: center; */
+   
+    }
+    .div_p{
+        padding-bottom: 20px;
+    }
+/* --------------------------------------------------section 5 start-------------------------------- */
+.rabota{
+    border: 2px solid black;
+    margin-top: 100px;  
+    width: 300px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+}
+.rabota_1{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    /* identical to box height, or 111% */
+    color: #000000; 
+    text-align: center;
+    padding-top: 5px;
+    }
+.map{
+    width: 100%;
+}
+/* ---------------------------------------------------------footer------------------------------------------------ */
+.vopros{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 30px;
+    /* or 107% */
+    color: #000000;
+    }
+
+
+.number{
+    margin-top: 20px;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 30px;
+    /* identical to box height, or 83% */
+    color: #F4512D;
+    margin-bottom: 60px;
+    }
+.vremya{
+    font-family: 'PT Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* identical to box height, or 167% */
+    color: rgba(0, 0, 0, 0.4);
+    }
+.icon{
+    color: red;
+}
+/* ----------------------------------------------responive------------------------------------- */
+/* 992 dan 1199 gacha */
+@media (max-width:1199px) {
+    
+}
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {
+    
+}
+/* 576 dan 767 gacha */
+@media (max-width:767px) {
+    
+}
+
+/* 0 dan 575 gacha */
+@media (max-width:575px) {
+    /* .logo {
+        margin-left: 40px;
+        width: 37px;
+    } */
+    .logo {
+        margin-left: 191px;
+        width: 60px;
+    }
+/* .logo_2 {
+    width: 197px;
+    margin-left: 138px;
+} */
+.logo_2 {
+    width: 225px;
+    margin-left: 354px;
+}
+/* .viber {
+    width: 96px;
+    margin-left: 390px;
+} */
+.viber {
+    width: 138px;
+    margin-left: 690px;
+}
+.restoran {
+    width: 263%;
+}
+.bir {
+    color: rgb(167, 197, 197);
+    margin-left: 20px;
+}
+/* .tochkalar_2 {
+    margin-left: 362px;
+    margin-top: 20px;
+} */
+.tochkalar_2 {
+    margin-left: 644px;
+    margin-top: 20px;
+    width: 100px;
+}
+/* .gorod {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 30px;
+    letter-spacing: 0.01em;
+    color: #000000;
+    padding-top: 48px;
+    padding-left: 218px;
+} */
+.gorod {
+    /* font-family: 'Lora'; */
+    /* font-style: normal; */
+    /* font-weight: 700; */
+    font-size: 57px;
+    line-height: 46px;
+    /* letter-spacing: 0.01em; */
+    color: #000000;
+    /* padding-top: 48px; */
+    padding-left: 393px;
+}
+
+.div_big_2{
+    margin-left: 50px;
+}
+.div_3 {
+    /* margin-top: 50px; */
+    display: flex;
+    /* align-items: flex-start; */
+    margin-left: 300px;
+}
+.kirpich {
+    /* font-family: 'PT Mono'; */
+    /* font-style: normal; */
+    /* font-weight: 300; */
+    font-size: 23px;
+    /* line-height: 130%; */
+    /* text-align: center; */
+    color: #000000;
+    margin-top: 30px;
+    position: absolute;
+    top: 667px;
+    left: 990px;
+}
+.menyu {
+    padding-top: 40px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #000000;
+    margin-left: 500px;
+    position: absolute;
+    /* top: 1600px; */
+    left: 500px;
+}
+.team_2 {
+    width: 261%;
+}
+.rojdeniya {
+    /* font-family: 'PT Mono'; */
+    /* font-style: normal; */
+    font-weight: 400;
+    font-size: 18px;
+    /* line-height: 30px; */
+    /* text-align: center; */
+    /* letter-spacing: 0.01em; */
+    color: #000000;
+}
+.otziv {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-left: 200px;
+    padding-top: 90px;
+    position: relative;
+    top: -662px;
+    left: 600px;
+}
+.card_photo {
+    margin-top: 50px;
+    background: cornsilk;
+    width: 590px;
+    height: 229px;
+    margin-right: 500px;
+    position: relative;
+    top: -662px;
+    left: 650px;
+}
+.card_photo_2 {
+    margin-top: 50px;
+    background: cornsilk;
+    width: 590px;
+    height: 229px;
+    margin-right: 500px;
+    position: relative;
+    top: -389px;
+    left: 362px;
+}
+.tochkalar_3 {
+    /* margin-left: 644px; */
+    margin-top: 20px;
+    width: 100px;
+    position: relative;
+    top: -350px;
+}
+.card_help {
+    color: #000000;
+    position: relative;
+    top: -400px;
+}
+.map {
+    width: 262%;
+    position: relative;
+    top: -451px;
+}
+.vopros {
+    /* font-family: 'Lora'; */
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 21px;
+    /* line-height: 30px; */
+    /* color: #000000; */
+    position: relative;
+    top: -468px;
+    left: 33px;
+}
+.number {
+    margin-top: 20px;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 30px;
+    color: #F4512D;
+    margin-bottom: 60px;
+    position: relative;
+    top: -572px;
+    left: 265px;
+}
+.vremya {
+    font-family: 'PT Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.4);
+    position: relative;
+    top: -509px;
+    left: 370px;
+}
+.icon {
+    color: red;
+    position: relative;
+    top: -400px;
+    left: 658px;
+}
+.div_4_2 {
+    padding-top: 100px;
+    position: relative;
+    left: 73px;
+}
+.div_4_3 {
+    padding-top: 100px;
+    position: relative;
+    left: 228px;
+}
+.div_4_4 {
+    padding-top: 100px;
+    position: relative;
+    left: 300px;
+}
+.klyuch {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 46px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: 64px;
+}
+}
+/* ----------------------------------------------responsive 2--------------------------------------- */
